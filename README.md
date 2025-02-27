@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Omnya  
+# 👋 Hi, I'm Omnya  
 💡 Passionate about **software development, and machine learning**  
 🏥 Currently working on a **Hospital Management App**  
 
