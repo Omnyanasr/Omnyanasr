@@ -8,7 +8,7 @@
 - **Project Management** | PERT & Gantt charts, task identification  
 
 ## 💻 Tech Stack  
-- **Languages:** Dart, Python, Java  
+- **Languages:** Dart, Python, Kotlin  
 - **Frameworks & Tools:** Flutter, Figma, Git  
 - **Machine Learning:** TensorFlow, scikit-learn  
 - **UI/UX:** Prototyping & Design with Figma  
