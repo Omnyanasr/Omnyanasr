@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Omnya
 
 💡 Passionate about **mobile app development** and **machine learning**
-🏥 Currently working on a **Hospital Management App**
 
 ## 🔍 Interests & Skills
 
