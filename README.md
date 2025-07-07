@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omnya
 
-💡 Passionate about **mobile app development** and **machine learning**
+💡 Passionate about **mobile app development**
 
 ## 🔍 Interests & Skills
 
