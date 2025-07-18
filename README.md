@@ -1,28 +1,49 @@
-# 👋 Hi, I'm Omnya
+# 👋 Hi, I'm Omnya!  
+🔍 Passionate about **mobile app development** and crafting intelligent, user-focused solutions.
 
-💡 Passionate about **mobile app development**
+---
 
-## 🔍 Interests & Skills
+## 🌟 Interests & Skills
 
-* **Mobile App Development** | Creating cross-platform and native apps using Flutter & Kotlin
-* **Machine Learning** | Building data-driven, intelligent solutions
-* **UI/UX Design** | Focused on user-centered design with Figma
+- 🚀 **Mobile App Development**  
+  Crafting sleek, cross-platform & native apps using **Flutter** & **Kotlin**
 
-## 💻 Tech Stack
+- 🤖 **Machine Learning**  
+  Building intelligent, data-driven solutions with real-world impact
 
-* **Languages:** Dart, Kotlin, Python, SQL
-* **Frameworks & Tools:** Flutter, Android Studio, Firebase, Git
-* **Machine Learning:** scikit-learn, TensorFlow, NumPy
-* **UI/UX:** Prototyping & Design with Figma
-* **Databases:** Firebase Firestore, MySQL
+- 🎨 **UI/UX Design**  
+  Designing user-centered interfaces using **Figma** and design thinking
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧑‍💻 Languages
+`Dart` • `Kotlin` • `Python` • `SQL`
+
+### ⚙️ Frameworks & Tools
+`Flutter` • `Android Studio` • `Firebase` • `Git`
+
+### 📊 Machine Learning
+`scikit-learn` • `TensorFlow` • `NumPy`
+
+### 🎨 UI/UX
+`Figma` • Wireframing • Prototyping
+
+### 🗄️ Databases
+`Firebase Firestore` • `MySQL`
+
+---
 
 ## 📚 Always Learning
 
-* Enhancing mobile app performance and scalability
-* Integrating ML models into real-world mobile apps
-* Applying best practices in UI/UX and system architecture
+- 🔧 Enhancing **mobile app performance** & scalability  
+- 🧠 Integrating **ML models** into real-world mobile apps  
+- 💡 Applying **best practices** in UI/UX and system architecture  
 
-## 📬 Let's Connect!
+---
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/omnya-nasr-7074b2339/)
-* 📧 [Email](mailto:omnyaelanany@gmail.com)
+## 🤝 Let's Connect!
+
+- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/omnya-nasr-7074b2339/)  
+- [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=flat-square)](mailto:omnyaelanany@gmail.com)
