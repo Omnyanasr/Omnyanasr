@@ -45,5 +45,5 @@
 
 ## 🤝 Let's Connect!
 
-- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/omnya-nasr-7074b2339/)  
+- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/omnya-nasr-7074b2339/)  
 - [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=flat-square)](mailto:omnyaelanany@gmail.com)
