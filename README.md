@@ -18,19 +18,19 @@
 
 ## 🛠️ Tech Stack
 
-### 🧑‍💻 Languages
+### 🧑‍💻 Languages  
 `Dart` • `Kotlin` • `Python` • `SQL`
 
-### ⚙️ Frameworks & Tools
+### ⚙️ Frameworks & Tools  
 `Flutter` • `Android Studio` • `Firebase` • `Git`
 
-### 📊 Machine Learning
+### 📊 Machine Learning  
 `scikit-learn` • `TensorFlow` • `NumPy`
 
-### 🎨 UI/UX
+### 🎨 UI/UX  
 `Figma` • Wireframing • Prototyping
 
-### 🗄️ Databases
+### 🗄️ Databases  
 `Firebase Firestore` • `MySQL`
 
 ---
@@ -43,7 +43,15 @@
 
 ---
 
+## 📈 GitHub Analytics
+
+![Omnya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omnyanasr&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omnyanasr&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omnyanasr&theme=radical)
+
+---
+
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/omnya-nasr-7074b2339/)
-- 📧 [Email](mailto:omnyaelanany@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/omnya-nasr-7074b2339/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omnyaelanany@gmail.com)
