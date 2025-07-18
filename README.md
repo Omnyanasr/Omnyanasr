@@ -45,11 +45,19 @@
 
 ## 📈 GitHub Analytics
 
-![Omnya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omnyanasr&show_icons=true&theme=radical)  
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omnyanasr&layout=compact&theme=radical)  
+  <img src="https://github-readme-stats.vercel.app/api?username=Omnyanasr&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omnyanasr&theme=radical)
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omnyanasr&layout=compact&theme=radical" alt="Top Languages" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Omnyanasr&theme=radical" alt="GitHub Streak" />
+
+</div>
 
 ---
 
