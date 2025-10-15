@@ -55,7 +55,7 @@
 
   <br/>
 
-<img src="https://streak-stats.demolab.com?user=Omnyanasr&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=omnyanasr&theme=radical" alt="GitHub Streak" />
 
 </div>
 
